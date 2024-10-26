@@ -1,0 +1,6 @@
+tensorflow==2.17.0
+matplotlib==3.9.1
+split-folders==0.5.1
+scikit-learn==1.5.2
+keras==3.6.0
+cuda-python==12.6.0
